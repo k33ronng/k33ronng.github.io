@@ -21,7 +21,7 @@ repository               : "k33ronng/k33ronng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo_keeron.jpg"
+  avatar           : "bio-photo.jpg"
   name             : "Qixuan Huang"
   pronouns         : # example: "she/her"  
   bio              : "Human & Autonomy"

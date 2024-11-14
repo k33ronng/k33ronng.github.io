@@ -1,6 +1,5 @@
 ---
 permalink: /
-# title: "Hi there👋🏻, this is Qixuan Huang."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
