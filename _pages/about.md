@@ -1,11 +1,12 @@
 ---
 permalink: /
-excerpt: "About me"
+title: false
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<!-- {% include toc %} -->
 
 # Hi there👋🏻, this is Qixuan Huang.
 
