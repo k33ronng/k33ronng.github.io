@@ -21,4 +21,4 @@ Currently looking for an internship or research opportunity related to the advan
 ## 🔥 **News and Highlights**
 
 📌06/2023: Start doing research with Professor [Gaoang Wang](https://scholar.google.com/citations?user=GhsXNiwAAAAJ) and Join [CVNext Lab](https://cvnext.github.io/) as undergraduate research assistant on Computer Vision and Pattern Recognition.   
-📌06/2023: Join [Ultrafast Photonics Lab](http://www.uphotonics.com/en/index/) to conduct summer research on Boids algorithms. [Outstanding Poster]
+📌06/2023: Join [Ultrafast Photonics Lab](http://www.uphotonics.com/en/index/) to conduct summer research with Professor [Chaoyuan Jin](https://scholar.google.com/citations?user=xzP0EAIAAAAJ) on Boids algorithms. [Outstanding Poster]
